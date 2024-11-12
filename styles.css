@@ -222,7 +222,7 @@ html, body {
     position: relative;
     object-fit: cover;
     cursor: pointer;
-    width: 135%;
+    width: 100%;
     left: 50%;
     top: 50%;
 }
